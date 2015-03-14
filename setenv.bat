@@ -3,7 +3,7 @@ set RootPath=%CD%
 set BinPath=%CD%.bin
 set ObjPath=%CD%.obj
 
-set _BUILD_ARCH=Win32
+set _BUILD_ARCH=x64
 set _BUILD_FLAVOR=Debug
 
 doskey ..=pushd ..

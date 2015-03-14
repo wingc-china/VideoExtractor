@@ -11,8 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VideoExtractor.Windows", "V
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		VideoExtractor\VideoExtractor.Shared\VideoExtractor.Shared.vcxitems*{d5c9c49e-f8a6-4f98-b7bb-a1a76e296ddd}*SharedItemsImports = 9
-		VideoExtractor\VideoExtractor.Shared\VideoExtractor.Shared.vcxitems*{656ad7ea-03ec-491b-bf06-cd8db0b76aa4}*SharedItemsImports = 4
+		VideoExtractor.Shared\VideoExtractor.Shared.vcxitems*{d5c9c49e-f8a6-4f98-b7bb-a1a76e296ddd}*SharedItemsImports = 9
+		VideoExtractor.Shared\VideoExtractor.Shared.vcxitems*{656ad7ea-03ec-491b-bf06-cd8db0b76aa4}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
