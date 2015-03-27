@@ -6,11 +6,18 @@
 ///
 
 #include "pch.h"
+
 #include "FormatExtractor.h"
+
+#include <LibAVFormat/AVFormat.h>
 
 using namespace VideoExtractor;
 using namespace Platform;
 
 FormatExtractor::FormatExtractor()
+{
+}
+
+FormatExtractor::~FormatExtractor()
 {
 }

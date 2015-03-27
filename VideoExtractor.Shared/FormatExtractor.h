@@ -7,13 +7,12 @@
 
 #pragma once
 
-#include <LibAVFormat/AVFormat.h>
-
 namespace VideoExtractor
 {
 	public ref class FormatExtractor sealed
 	{
 	public:
         FormatExtractor();
+        virtual ~FormatExtractor();
 	};
 }
